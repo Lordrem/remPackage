@@ -1,0 +1,11 @@
+Package: remPackage
+Type: Package
+Title: Tool that Helps You Express Your Love for Football.
+Version: 0.1.0
+Author: Jeremy Iyonawan [aut, cre]
+Maintainer: Jeremy Iyonawan <jeremyiyo10@gmail.com>
+Description: This function allows you to express your love for football.
+License: GNU GPLv3.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
